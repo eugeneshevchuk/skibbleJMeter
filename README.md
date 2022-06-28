@@ -8,7 +8,9 @@ Navigate to ‘bin’ folder of JMeter using “cd” command
 Type the command:
 jmeter -n -t <jmx file name with path> -l <log file name with path>
 jmeter -n -t <jmx file name with path> -l <log file name with path> -e -o <path of folder to save HTML report>
-jmeter -n -t SkibbleTestPlan.jmx -l testresult.jtl -p stage.properties
+
+ command to run on stage env:
+ jmeter -n -t SkibbleTestPlan.jmx -l testresult.jtl -p stage.properties
 
  -For Unix:
 Navigate to ‘bin’ folder of JMeter using “cd” command
