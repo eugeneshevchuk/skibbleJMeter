@@ -1,38 +1,58 @@
-2022-06-28 02:04:41,843 INFO o.a.j.u.JMeterUtils: Setting Locale to uk_UA
-2022-06-28 02:04:41,853 ERROR o.a.j.u.JMeterUtils: Could not find resources for 'uk_UA'
-2022-06-28 02:04:41,857 INFO o.a.j.JMeter: Loading user properties from: user.properties
-2022-06-28 02:04:41,857 INFO o.a.j.JMeter: Loading system properties from: system.properties
-2022-06-28 02:04:41,857 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
-2022-06-28 02:04:41,857 INFO o.a.j.JMeter: Version 5.5
-2022-06-28 02:04:41,857 INFO o.a.j.JMeter: java.version=18.0.1.1
-2022-06-28 02:04:41,857 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
-2022-06-28 02:04:41,857 INFO o.a.j.JMeter: os.name=Windows 11
-2022-06-28 02:04:41,857 INFO o.a.j.JMeter: os.arch=amd64
-2022-06-28 02:04:41,857 INFO o.a.j.JMeter: os.version=10.0
-2022-06-28 02:04:41,857 INFO o.a.j.JMeter: file.encoding=UTF-8
-2022-06-28 02:04:41,857 INFO o.a.j.JMeter: java.awt.headless=null
-2022-06-28 02:04:41,857 INFO o.a.j.JMeter: Max memory     =4280287232
-2022-06-28 02:04:41,857 INFO o.a.j.JMeter: Available Processors =16
-2022-06-28 02:04:41,863 INFO o.a.j.JMeter: Default Locale=українська (Україна)
-2022-06-28 02:04:41,863 INFO o.a.j.JMeter: JMeter  Locale=українська (Україна)
-2022-06-28 02:04:41,863 INFO o.a.j.JMeter: JMeterHome=D:\Work\skibbleJMeter\apache-jmeter-5.5
-2022-06-28 02:04:41,863 INFO o.a.j.JMeter: user.dir  =D:\Work\skibbleJMeter\apache-jmeter-5.5\bin
-2022-06-28 02:04:41,863 INFO o.a.j.JMeter: PWD       =D:\Work\skibbleJMeter\apache-jmeter-5.5\bin
-2022-06-28 02:04:46,423 INFO o.a.j.JMeter: IP: 25.72.179.204 Name: DESKTOP-HP3CGIQ FullName: DESKTOP-HP3CGIQ
-2022-06-28 02:04:46,424 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2022-06-28 02:04:46,512 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
-2022-06-28 02:04:47,476 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_11-428d031835a1f5d694de72b09c869627-gui
-2022-06-28 02:04:48,875 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.7, websocket-sampler=1.0.2-SNAPSHOT, websocket-samplers=1.2.8, jmeter-core=5.5, jmeter-ftp=5.5, jmeter-http=5.5, jmeter-jdbc=5.5, jmeter-jms=5.5, jmeter-junit=5.5, jmeter-java=5.5, jmeter-ldap=5.5, jmeter-mail=5.5, jmeter-mongodb=5.5, jmeter-native=5.5, jmeter-tcp=5.5, jmeter-components=5.5]
-2022-06-28 02:04:55,511 INFO o.a.j.s.FileServer: Default base='D:\Work\skibbleJMeter\apache-jmeter-5.5\bin'
-2022-06-28 02:04:55,511 INFO o.a.j.g.a.Load: Loading file: D:\Work\skibbleJMeter\Skibble Test Plan.jmx
-2022-06-28 02:04:55,511 INFO o.a.j.s.FileServer: Set new base='D:\Work\skibbleJMeter'
-2022-06-28 02:04:55,605 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
-2022-06-28 02:04:55,611 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
-2022-06-28 02:04:55,611 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
-2022-06-28 02:04:55,611 INFO o.a.j.s.SaveService: Loading file: D:\Work\skibbleJMeter\Skibble Test Plan.jmx
-2022-06-28 02:04:55,742 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
-2022-06-28 02:04:55,742 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
-2022-06-28 02:04:55,742 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
-2022-06-28 02:04:55,742 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
-2022-06-28 02:04:55,814 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
-2022-06-28 02:04:55,852 INFO o.a.j.s.FileServer: Set new base='D:\Work\skibbleJMeter'
+2022-06-29 00:21:56,812 INFO o.a.j.u.JMeterUtils: Setting Locale to uk_UA
+2022-06-29 00:21:56,822 ERROR o.a.j.u.JMeterUtils: Could not find resources for 'uk_UA'
+2022-06-29 00:21:56,822 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2022-06-29 00:21:56,822 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2022-06-29 00:21:56,826 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2022-06-29 00:21:56,826 INFO o.a.j.JMeter: Version 5.5
+2022-06-29 00:21:56,826 INFO o.a.j.JMeter: java.version=18.0.1.1
+2022-06-29 00:21:56,826 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-06-29 00:21:56,826 INFO o.a.j.JMeter: os.name=Windows 11
+2022-06-29 00:21:56,826 INFO o.a.j.JMeter: os.arch=amd64
+2022-06-29 00:21:56,826 INFO o.a.j.JMeter: os.version=10.0
+2022-06-29 00:21:56,826 INFO o.a.j.JMeter: file.encoding=UTF-8
+2022-06-29 00:21:56,826 INFO o.a.j.JMeter: java.awt.headless=null
+2022-06-29 00:21:56,826 INFO o.a.j.JMeter: Max memory     =4280287232
+2022-06-29 00:21:56,826 INFO o.a.j.JMeter: Available Processors =16
+2022-06-29 00:21:56,830 INFO o.a.j.JMeter: Default Locale=українська (Україна)
+2022-06-29 00:21:56,831 INFO o.a.j.JMeter: JMeter  Locale=українська (Україна)
+2022-06-29 00:21:56,831 INFO o.a.j.JMeter: JMeterHome=D:\Work\skibbleJMeter\apache-jmeter-5.5
+2022-06-29 00:21:56,831 INFO o.a.j.JMeter: user.dir  =D:\Work\skibbleJMeter\apache-jmeter-5.5\bin
+2022-06-29 00:21:56,831 INFO o.a.j.JMeter: PWD       =D:\Work\skibbleJMeter\apache-jmeter-5.5\bin
+2022-06-29 00:22:01,399 INFO o.a.j.JMeter: IP: 25.72.179.204 Name: DESKTOP-HP3CGIQ FullName: DESKTOP-HP3CGIQ
+2022-06-29 00:22:01,405 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-06-29 00:22:01,488 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2022-06-29 00:22:02,484 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_11-5a2e6585b6917e2760aca3008971c0b5-gui
+2022-06-29 00:22:03,936 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.7, websocket-sampler=1.0.2-SNAPSHOT, websocket-samplers=1.2.8, jmeter-core=5.5, jmeter-ftp=5.5, jmeter-http=5.5, jmeter-jdbc=5.5, jmeter-jms=5.5, jmeter-junit=5.5, jmeter-java=5.5, jmeter-ldap=5.5, jmeter-mail=5.5, jmeter-mongodb=5.5, jmeter-native=5.5, jmeter-tcp=5.5, jmeter-components=5.5]
+2022-06-29 00:22:08,177 INFO o.a.j.s.FileServer: Default base='D:\Work\skibbleJMeter\apache-jmeter-5.5\bin'
+2022-06-29 00:22:08,178 INFO o.a.j.g.a.Load: Loading file: D:\Work\skibbleJMeter\SkibbleTestPlan.jmx
+2022-06-29 00:22:08,178 INFO o.a.j.s.FileServer: Set new base='D:\Work\skibbleJMeter'
+2022-06-29 00:22:08,267 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-06-29 00:22:08,269 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-06-29 00:22:08,270 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-06-29 00:22:08,271 INFO o.a.j.s.SaveService: Loading file: D:\Work\skibbleJMeter\SkibbleTestPlan.jmx
+2022-06-29 00:22:08,392 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-06-29 00:22:08,392 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-06-29 00:22:08,392 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-06-29 00:22:08,392 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-06-29 00:22:08,468 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2022-06-29 00:22:08,504 INFO o.a.j.s.FileServer: Set new base='D:\Work\skibbleJMeter'
+2022-06-29 00:22:13,394 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2022-06-29 00:22:13,394 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2022-06-29 00:22:13,394 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2022-06-29 00:22:13,395 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2022-06-29 00:22:13,395 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2022-06-29 00:22:13,409 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2022-06-29 00:22:13,428 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2022-06-29 00:22:13,428 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2022-06-29 00:22:13,428 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2022-06-29 00:22:13,428 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2022-06-29 00:22:13,429 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2022-06-29 00:22:13,430 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2022-06-29 00:22:13,430 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2022-06-29 00:22:14,703 INFO o.e.j.w.c.WebSocketClient: Session Opened: WebSocketSession[websocket=JettyAnnotatedEventDriver[JMeter.plugins.functional.samplers.websocket.ServiceSocket@3a5f2298],behavior=CLIENT,connection=WebSocketClientConnection@13045a57{FILL_INTERESTED}{g=Generator[CLIENT,validating],p=Parser@2ac5d076[ExtensionStack,s=START,c=0,len=0,f=null,p=WebSocketPolicy@6e320985[behavior=CLIENT,maxTextMessageSize=268435456,maxTextMessageBufferSize=32768,maxBinaryMessageSize=65536,maxBinaryMessageBufferSize=32768,asyncWriteTimeout=60000,idleTimeout=300000,inputBufferSize=4096]]},remote=org.eclipse.jetty.websocket.common.WebSocketRemoteEndpoint@2d3abd39,incoming=JettyAnnotatedEventDriver[JMeter.plugins.functional.samplers.websocket.ServiceSocket@3a5f2298],outgoing=ExtensionStack[extensions=[],incoming=org.eclipse.jetty.websocket.common.WebSocketSession,outgoing=org.eclipse.jetty.websocket.client.io.WebSocketClientConnection]]
+2022-06-29 00:22:20,527 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2022-06-29 00:22:20,527 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2022-06-29 00:22:20,527 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2022-06-29 00:22:20,529 INFO o.e.j.w.c.WebSocketClient: Session Closed: WebSocketSession[websocket=JettyAnnotatedEventDriver[JMeter.plugins.functional.samplers.websocket.ServiceSocket@3a5f2298],behavior=CLIENT,connection=WebSocketClientConnection@13045a57{IDLE}{g=Generator[CLIENT,validating],p=Parser@2ac5d076[ExtensionStack,s=START,c=0,len=505,f=TEXT[len=0,fin=true,rsv=...,masked=false],p=WebSocketPolicy@6e320985[behavior=CLIENT,maxTextMessageSize=268435456,maxTextMessageBufferSize=32768,maxBinaryMessageSize=65536,maxBinaryMessageBufferSize=32768,asyncWriteTimeout=60000,idleTimeout=300000,inputBufferSize=4096]]},remote=org.eclipse.jetty.websocket.common.WebSocketRemoteEndpoint@2d3abd39,incoming=JettyAnnotatedEventDriver[JMeter.plugins.functional.samplers.websocket.ServiceSocket@3a5f2298],outgoing=ExtensionStack[extensions=[],incoming=org.eclipse.jetty.websocket.common.WebSocketSession,outgoing=org.eclipse.jetty.websocket.client.io.WebSocketClientConnection]]
+2022-06-29 00:22:20,531 INFO o.e.j.w.c.WebSocketClient: Stopped org.eclipse.jetty.websocket.client.WebSocketClient@1dd21565
+2022-06-29 00:22:20,531 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
