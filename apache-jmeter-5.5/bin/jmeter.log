@@ -1,46 +1,46 @@
-2022-07-07 17:37:54,739 INFO o.a.j.u.JMeterUtils: Setting Locale to uk_UA
-2022-07-07 17:37:54,745 ERROR o.a.j.u.JMeterUtils: Could not find resources for 'uk_UA'
-2022-07-07 17:37:54,745 INFO o.a.j.JMeter: Loading user properties from: user.properties
-2022-07-07 17:37:54,745 INFO o.a.j.JMeter: Loading system properties from: system.properties
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: Version 5.5
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: java.version=18.0.1.1
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: os.name=Windows 11
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: os.arch=amd64
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: os.version=10.0
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: file.encoding=UTF-8
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: java.awt.headless=null
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: Max memory     =4280287232
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: Available Processors =16
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: Default Locale=українська (Україна)
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: JMeter  Locale=українська (Україна)
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: JMeterHome=D:\Work\skibbleJMeter\apache-jmeter-5.5
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: user.dir  =D:\Work\skibbleJMeter\apache-jmeter-5.5\bin
-2022-07-07 17:37:54,755 INFO o.a.j.JMeter: PWD       =D:\Work\skibbleJMeter\apache-jmeter-5.5\bin
-2022-07-07 17:37:59,310 INFO o.a.j.JMeter: IP: 25.72.179.204 Name: DESKTOP-HP3CGIQ FullName: DESKTOP-HP3CGIQ
-2022-07-07 17:37:59,314 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2022-07-07 17:37:59,398 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
-2022-07-07 17:38:00,390 INFO o.j.r.JARSourceHTTP: Found cached repo
-2022-07-07 17:38:00,454 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.7, websocket-sampler=1.0.2-SNAPSHOT, websocket-samplers=1.2.8, jmeter-core=5.5, jmeter-ftp=5.5, jmeter-http=5.5, jmeter-jdbc=5.5, jmeter-jms=5.5, jmeter-junit=5.5, jmeter-java=5.5, jmeter-ldap=5.5, jmeter-mail=5.5, jmeter-mongodb=5.5, jmeter-native=5.5, jmeter-tcp=5.5, jmeter-components=5.5]
-2022-07-07 17:38:11,576 INFO o.a.j.s.FileServer: Default base='D:\Work\skibbleJMeter\apache-jmeter-5.5\bin'
-2022-07-07 17:38:11,576 INFO o.a.j.g.a.Load: Loading file: D:\Work\skibbleJMeter\SkibbleTestPlan.jmx
-2022-07-07 17:38:11,576 INFO o.a.j.s.FileServer: Set new base='D:\Work\skibbleJMeter'
-2022-07-07 17:38:11,664 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
-2022-07-07 17:38:11,664 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
-2022-07-07 17:38:11,667 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
-2022-07-07 17:38:11,667 INFO o.a.j.s.SaveService: Loading file: D:\Work\skibbleJMeter\SkibbleTestPlan.jmx
-2022-07-07 17:38:11,734 WARN e.l.j.w.WebsocketSampler: Detected Maciej Zaleski's WebSocket Sampler plugin is installed too, which is not compatible with this plugin (but both can co-exist).
-2022-07-07 17:38:11,811 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
-2022-07-07 17:38:11,811 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
-2022-07-07 17:38:11,811 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
-2022-07-07 17:38:11,811 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
-2022-07-07 17:38:11,885 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
-2022-07-07 17:38:11,965 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
-2022-07-07 17:38:11,995 INFO o.a.j.s.FileServer: Set new base='D:\Work\skibbleJMeter'
-2022-07-07 17:38:20,424 INFO o.a.j.g.a.Load: Loading file: C:\Users\eshev\Downloads\skibbleLTJmeter\SkibbleTestPlan.jmx
-2022-07-07 17:38:20,424 INFO o.a.j.s.FileServer: Set new base='C:\Users\eshev\Downloads\skibbleLTJmeter'
-2022-07-07 17:38:20,424 INFO o.a.j.s.SaveService: Loading file: C:\Users\eshev\Downloads\skibbleLTJmeter\SkibbleTestPlan.jmx
-2022-07-07 17:38:20,439 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
-2022-07-07 17:38:20,482 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
-2022-07-07 17:38:20,500 INFO o.a.j.s.FileServer: Set new base='C:\Users\eshev\Downloads\skibbleLTJmeter'
+2022-07-10 23:27:20,016 INFO o.a.j.u.JMeterUtils: Setting Locale to uk_UA
+2022-07-10 23:27:20,036 ERROR o.a.j.u.JMeterUtils: Could not find resources for 'uk_UA'
+2022-07-10 23:27:20,036 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2022-07-10 23:27:20,040 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: Version 5.5
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: java.version=18.0.1.1
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: os.name=Windows 11
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: os.arch=amd64
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: os.version=10.0
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: file.encoding=UTF-8
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: java.awt.headless=null
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: Max memory     =4280287232
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: Available Processors =16
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: Default Locale=українська (Україна)
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: JMeter  Locale=українська (Україна)
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: JMeterHome=D:\Work\repos\skibbleJMeter\apache-jmeter-5.5
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: user.dir  =D:\Work\repos\skibbleJMeter\apache-jmeter-5.5\bin
+2022-07-10 23:27:20,046 INFO o.a.j.JMeter: PWD       =D:\Work\repos\skibbleJMeter\apache-jmeter-5.5\bin
+2022-07-10 23:27:24,672 INFO o.a.j.JMeter: IP: 25.72.179.204 Name: DESKTOP-HP3CGIQ FullName: DESKTOP-HP3CGIQ
+2022-07-10 23:27:24,704 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-07-10 23:27:24,874 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2022-07-10 23:27:26,179 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_11-6e6497314779f3f1abe97bfabfe6928a-gui
+2022-07-10 23:27:27,800 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.7, websocket-sampler=1.0.2-SNAPSHOT, websocket-samplers=1.2.8, jmeter-core=5.5, jmeter-ftp=5.5, jmeter-http=5.5, jmeter-jdbc=5.5, jmeter-jms=5.5, jmeter-junit=5.5, jmeter-java=5.5, jmeter-ldap=5.5, jmeter-mail=5.5, jmeter-mongodb=5.5, jmeter-native=5.5, jmeter-tcp=5.5, jmeter-components=5.5]
+2022-07-10 23:27:29,549 INFO o.a.j.s.FileServer: Default base='D:\Work\repos\skibbleJMeter\apache-jmeter-5.5\bin'
+2022-07-10 23:27:29,555 INFO o.a.j.g.a.Load: Loading file: D:\Work\repos\SignalRJmeter\SignalR.jmx
+2022-07-10 23:27:29,555 INFO o.a.j.s.FileServer: Set new base='D:\Work\repos\SignalRJmeter'
+2022-07-10 23:27:29,669 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-07-10 23:27:29,683 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-07-10 23:27:29,683 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-07-10 23:27:29,683 INFO o.a.j.s.SaveService: Loading file: D:\Work\repos\SignalRJmeter\SignalR.jmx
+2022-07-10 23:27:29,839 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-07-10 23:27:29,839 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-07-10 23:27:29,839 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-07-10 23:27:29,839 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-07-10 23:27:29,839 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-07-10 23:27:29,839 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-07-10 23:27:29,843 WARN e.l.j.w.WebsocketSampler: Detected Maciej Zaleski's WebSocket Sampler plugin is installed too, which is not compatible with this plugin (but both can co-exist).
+2022-07-10 23:27:29,879 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-07-10 23:27:29,879 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-07-10 23:27:29,879 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-07-10 23:27:29,879 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-07-10 23:27:29,971 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2022-07-10 23:27:30,100 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2022-07-10 23:27:30,132 INFO o.a.j.s.FileServer: Set new base='D:\Work\repos\SignalRJmeter'
