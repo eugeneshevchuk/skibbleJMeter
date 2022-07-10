@@ -3,3 +3,4 @@
 /apache-jmeter-5.5/backups
 *.log
 *.jtl
+*.log

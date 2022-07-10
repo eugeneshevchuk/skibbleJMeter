@@ -11,7 +11,7 @@ jmeter -n -t <jmx file name with path> -l <log file name with path> -e -o <path 
 
 Command to run on stage env:
 ```bash
-jmeter -n -t SkibbleTestPlan.jmx -l testresult.jtl -p stage.properties
+jmeter -n -t SkibbleTestPlan.jmx -l testresult.jtl -q stage.properties
 ```
 
  -For Unix:
